@@ -6,6 +6,7 @@ pkg install python
 pkg install git 
 
 rm -rf RANDOM_ONLY_BD
+
 git clone
 https://github.com/abir5005/RANDOM_ONLY_BD
 
