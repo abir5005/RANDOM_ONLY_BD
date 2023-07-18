@@ -12,5 +12,5 @@ https://github.com/abir5005/RANDOM_ONLY_BD
 
  cd RANDOM_ONLY_BD 
 
-python OnlyBD.py
+python OnlyBd.py
 
